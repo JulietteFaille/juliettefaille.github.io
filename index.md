@@ -17,3 +17,4 @@ My research interests are in Text Generation, NLG Evaluation, XAI (in particular
 I'm also interested in NLP ethics-related questions.
 
 
+{% include_relative _includes/publications.md %}
