@@ -7,7 +7,7 @@ layout: homepage
 I am a third-year PhD student in Computer Science at [CNRS/LORIA](https://www.loria.fr/fr/). I am part of the [Synalp research team](https://synalp.gitlabpages.inria.fr/synalp-website/), and  my PhD advisors are Claire Gardent and Albert Gatt. I am also an Early Stage Researcher in the [NL4XAI Marie Curie Project](https://nl4xai.eu/) .
 
 Before starting my PhD, I graduated with an MSc in Electrical Engineering and Information Technology from ETH Zurich and an Electrical Engineering Degree from CentraleSupélec.
-My Master thesis was on Approximation Theorectic Properties of Deep Neural Networks.
+My Master thesis was on Approximation Theoretic Properties of Deep Neural Networks.
 
 
 ## Research Interests
